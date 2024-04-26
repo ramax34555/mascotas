@@ -241,7 +241,7 @@ public class Main {
         System.out.println("NUmero del grupo: 3091");
     }
 
-    static void Pues you() { 
+    static void Pues you_rafael() { 
 
         System.out.println("Nombre: rafael lucas  sandoval arriaga "); 
 
