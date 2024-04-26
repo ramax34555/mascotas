@@ -241,12 +241,16 @@ public class Main {
         System.out.println("NUmero del grupo: 3091");
     }
 
+    int edadDeRafael = 25;
+Pues_you_rafael(edadDeRafael);
+
     static void Pues_you_rafael(int edad) {
         System.out.println("Nombre: Rafael Lucas Sandoval Arriaga");
         System.out.println("Número de documento: 1000253451");
         System.out.println("Grupo: Viernes de 6 a 9");
         System.out.println("Edad: " + edad); // imprime la edad
         System.out.println("Número del grupo: 3091");
+
     }
     
 }
