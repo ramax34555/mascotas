@@ -241,6 +241,18 @@ public class Main {
         System.out.println("NUmero del grupo: 3091");
     }
 
+    static void Pues you() { 
+
+        System.out.println("Nombre: rafael lucas  sandoval arriaga "); 
+
+        System.out.println("Número de documento: 1000253451"); 
+
+        System.out.println("Grupo: viernes de 6 a 9"); 
+
+        System.out.println("Edad: " + edad); // imprime la edad 
+        
+        System.out.println("NUmero del grupo: 3091");
+
 
 }
 
