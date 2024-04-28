@@ -235,7 +235,7 @@ public class Main {
         System.out.println("NUmero del grupo: 3091");
     }
 
-    int edadDeRafael = 25;
+    int edadDeRafael = 21;
 Pues_you_rafael(edadDeRafael);
 
     static void Pues_you_rafael(int edad) {
